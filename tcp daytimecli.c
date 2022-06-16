@@ -1,8 +1,7 @@
-#include &lt;sys/types.h&gt;
+#include <sys/types.h>
 #include &lt;sys/socket.h&gt;
 #include &lt;stdio.h&gt;
 #include &lt;string.h&gt;
-
 #include &lt;unistd.h&gt;
 #include &lt;stdlib.h&gt;
 #include &lt;arpa/inet.h&gt;
